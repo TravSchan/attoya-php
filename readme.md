@@ -1,5 +1,5 @@
 
-# Attoya
+# Attoya PHP Framework
 
 
 ## Installation
